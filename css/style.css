@@ -1,6 +1,12 @@
+
 .box{
     width: 200px;
     height: 200px;
+}
+
+.boxLarge{
+    width: 400px;
+    height: 400px;
 }
 
 .red{
